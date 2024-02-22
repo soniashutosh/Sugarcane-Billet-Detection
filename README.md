@@ -1,4 +1,4 @@
-# sugarcane_billet_detection_using_alexnet
+# Implementation of one research paper based on model present.
 
 Link for the Dataset-  https://github.com/The77Lab/SugarcaneDeepLearning
 
